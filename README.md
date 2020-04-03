@@ -81,7 +81,7 @@ brew install php
 ```
 
 # peek
-# gifでキャプチャ
+gifでキャプチャ
 ```
 sudo add-apt-repository ppa:peek-developers/stable
 sudo apt update
@@ -89,7 +89,7 @@ sudo apt install peek
 ```
 
 # guake
-# ターミナル
+ターミナル
 ```
 sudo apt install guake
 ```
