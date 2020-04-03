@@ -195,3 +195,8 @@ sudo clamscan --infected --recursive --remove
 --recursive: サブディレクトリを再帰的にスキャン。
 --remove: ウイルスに感染したファイルを削除。
 ```
+
+### システムプログラムの問題が見つかりました
+```
+sudo rm /var/crash/*
+```
